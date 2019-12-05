@@ -1,6 +1,6 @@
 # FormuLex
 ## Introdução
-FormuLex é um formulário de armazenar dados lexicais para fins comparativos e descritivos. Este documento apresenta o formato desenvolvido, e estabelece certos princípios e demonstra boas práticas em relação à curadoria de bancos de dados lexicais com FormuLex. O trabalho apresentado aqui resulta do projeto "Aplicando métodos quantitativos à comparação de línguas indígenas" (CNPq/PCI-D A312904/2016-9) do Joshua Birchall sob a orientação de Ana Vilacy Galucio na Área de Linguística da Coordenação de Ciências Humanas do Museu Paraense Emílio Goeldi em Belém, Brasil. 
+FormuLex é um formulário de armazenar dados lexicais para fins comparativos e descritivos. Este documento apresenta o formato desenvolvido, e estabelece certos princípios e demonstra boas práticas em relação à curadoria de bancos de dados lexicais com FormuLex. O trabalho apresentado aqui resulta do projeto "Aplicando métodos quantitativos à comparação de línguas indígenas" (CNPq/PCI-D A312904/2016-9) desenvolvido por Joshua Birchall sob a orientação de Ana Vilacy Galucio na Área de Linguística da Coordenação de Ciências Humanas do Museu Paraense Emílio Goeldi em Belém, Brasil. 
 
 ## Princípios
 Os princípios atrás do FormuLex se derivam dos padrões estabelecidos na informática para o tratamento de bancos de dados textuais, como no
